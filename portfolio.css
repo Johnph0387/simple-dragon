@@ -1,0 +1,145 @@
+body{
+    background-image:url(background.png)
+}
+header{
+    border-style: solid;
+    border-bottom-color: lightgray;
+    padding-bottom: 50px;
+    text-align: right;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    background-color: white;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-bottom: -8px;
+    margin-right: -8px;
+}
+
+
+#Name{
+    border-style: solid;
+    text-align: center;
+    margin-left: 87px;
+    margin-right: 1020px;
+    margin-top: -83px;
+    padding-top: 20px;
+    background-color: #04B4AE;
+    color: white; 
+}
+
+aside{
+    border-style: solid;
+    margin-top: 46px;
+    margin-left: 856px;
+    margin-bottom: 108px;
+    margin-right: 291px;
+    background-color: white;
+}
+#CWM{
+    text-align: center;
+    border-style: solid;
+    margin-top: 1px;
+    margin-left: 14px;
+    margin-bottom: 6px;
+    margin-right: 14px;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    background-color: white;
+    
+}
+
+section{
+    border-style: solid;
+    margin-top: -252px;
+    margin-left: 88px;
+    margin-bottom: 272px;
+    margin-right: 620px;
+    padding-bottom: 415px;
+    background-color: white;
+}
+#AB{
+    border-style: solid;
+    color: aqua;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border-bottom-color: black;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    background-color: white;
+    background-color: white;
+}
+Footer{
+    border-style: solid;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-top: 24px;
+    padding-bottom: 33px;
+    background-color: lightgrey;
+}
+
+#citi{
+    padding-left: 20px;
+    padding-top: 50px;
+    margin-left: 10px;
+        
+}
+
+#cars{
+    padding-left: 25px;
+    margin-left: 313px;
+    margin-top: -144px;
+        
+}
+
+#bridge{
+    padding-top: 35px;
+    padding-left: 30px;
+    
+}
+
+#laptop{
+    margin-left: 334px;
+    margin-top: -143px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.con{
+padding-left: 18px;
+}
+
+#l1{
+    border-style: solid;
+    margin-bottom: 32px;
+    margin-left: 29px;;
+    margin-right: 311;
+    margin-top: -256;
+    color: red;
+    text-align: center;
+}
+#l2{
+    border-style: solid;
+    margin-bottom: 68px;
+    margin-left: 340px;
+    margin-right: 66px;
+    margin-top: -83px;;
+    color: red;
+    text-align: center;
+}
+#l3{
+    border-style: solid;
+    margin-bottom: -52px;
+    margin-left: 365px;
+    margin-right: 85px;
+    margin-top:116px;;
+    color: red;
+    text-align: center;
+}
